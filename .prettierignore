@@ -1,0 +1,7 @@
+.husky
+.next
+node_modules
+dist
+README.md
+.forestadmin-schema.json
+charts/

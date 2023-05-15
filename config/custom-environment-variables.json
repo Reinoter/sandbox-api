@@ -1,0 +1,12 @@
+{
+	"server": {
+		"protocol": "PROTOCOL",
+		"port": "PORT"
+	},
+	"logger": {
+		"level": "LOG_LEVEL"
+	},
+	"mongoose": {
+		"url": "MONGOOSE_URL"
+	}
+}

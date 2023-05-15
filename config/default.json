@@ -1,0 +1,21 @@
+{
+	"server": {
+		"protocol": "http",
+		"host": "localhost",
+		"port": 3310
+	},
+	"logger": {
+		"level": "dev"
+	},
+	"mongoose": {
+		"url": "mongodb://127.0.0.1:27017",
+		"database": "sandbox",
+		"replicaSet": "rs",
+		"debug": false
+	},
+	"forest-admin": {
+		"env_secret": "FOREST_ENV_SECRET",
+		"auth_secret": "FOREST_AUTH_SECRET",
+		"application_url": "FOREST_APPLICATION_URL"
+	}
+}
